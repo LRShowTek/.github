@@ -1,12 +1,49 @@
-## Hi there 👋
+     _____ __                 ______           __  
+    / ___// /_  ____ _      _/_  __/________ _/ /__
+    \__ \/ __ \/ __ \ | /| / // / / ___/ __ `/ //_/
+     ___/ / / / / /_/ / |/ |/ // / / /  / /_/ / ,<   
+    /____/_/ /_/\____/|__/|__//_/ /_/   \__,_/_/|_|  
+                                                  
+                                                  
+#
 
-<!--
+# ShowTrak
 
-**Here are some ideas to get you started:**
+A bespoke project for tracking, managing and upgrading how you run your immersive production.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Features
+
+- Track groups of customers through your show
+- Calculate timing delays
+- Communicate with cast via tablets
+- Integrate commands to your show PCs
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Layered Reality's War of the Worlds: Immersive
+
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+
+![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+
+
