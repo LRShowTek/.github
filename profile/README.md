@@ -27,7 +27,7 @@ A bespoke project for tracking, managing and upgrading how you run your immersiv
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[NO CURRENT LICENSE](https://choosealicense.com/)
 
 
 ## Used By
